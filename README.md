@@ -9,10 +9,5 @@ The program is a text-based application for managing phone numbers and addresses
 - removing a person's information
 - filtered search by keyword, sorted alphabetically
 
-This is what I think after reviewing my code:
+I think I need to re-read how to implement the Comparable interface; I'm not sure I've done it 100% right.
 
-I need to re-read how to implement the Comparable interface; I'm not sure if I've done it 100% right.
-
-A Hashmap with Person objects as either a key or a value might have made sense.
-
-I used multiple 'if' statements in the obtainInput() method when I should have used switch.
